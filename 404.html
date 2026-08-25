@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Download moved</title>
+  </head>
+  <body>
+    <main>
+      <h1>Download moved</h1>
+      <p id="message">This address is no longer used for binary storage.</p>
+      <p><a id="download-link" href="/">Open the current download page</a></p>
+    </main>
+    <script>
+      (() => {
+        const redirects = {"/latest.json":"latest.json","/metanet-client-linux-x86_64.AppImage":"metanet-client-x86_64.AppImage","/metanet-client-linux-x86_64.AppImage.asc":"metanet-client-x86_64.AppImage.asc","/metanet-client-macos-arm64.dmg":"metanet-client-macos-arm64.dmg","/metanet-client-macos-x64.dmg":"metanet-client-macos-x64.dmg","/metanet-client-updater-darwin-aarch64.tar.gz":"metanet-client-updater-darwin-aarch64.tar.gz","/metanet-client-updater-darwin-x86_64.tar.gz":"metanet-client-updater-darwin-x86_64.tar.gz","/metanet-client-updater-linux-x86_64.AppImage":"metanet-client-updater-linux-x86_64.AppImage","/metanet-client-updater-windows-x86_64.exe":"metanet-client-updater-windows-x86_64.exe","/metanet-client-windows-x64.exe":"metanet-client-windows-x64.exe","/metanet-client-windows-x64.msi":"metanet-client-windows-x64.msi","/metanet-client-x86_64.AppImage":"metanet-client-x86_64.AppImage","/metanet-client-x86_64.AppImage.asc":"metanet-client-x86_64.AppImage.asc","/SHA256SUMS":"SHA256SUMS","/SHA256SUMS.asc":"SHA256SUMS.asc","/updater/metanet-client-darwin-aarch64.tar.gz":"metanet-client-updater-darwin-aarch64.tar.gz","/updater/metanet-client-darwin-x86_64.tar.gz":"metanet-client-updater-darwin-x86_64.tar.gz","/updater/metanet-client-linux-x86_64.AppImage":"metanet-client-updater-linux-x86_64.AppImage","/updater/metanet-client-windows-x86_64.exe":"metanet-client-updater-windows-x86_64.exe"};
+        let requestPath = window.location.pathname;
+        try { requestPath = decodeURIComponent(requestPath); } catch {}
+        const filename = redirects[requestPath];
+        if (!filename) return;
+        const target = "https://github.com/p2ppsr/metanet-client-downloads/releases/latest/download" + '/' + encodeURIComponent(filename);
+        const link = document.getElementById('download-link');
+        link.href = target;
+        link.textContent = 'Continue to the download';
+        document.getElementById('message').textContent = 'Redirecting to GitHub Releases…';
+        window.location.replace(target);
+      })();
+    </script>
+  </body>
+</html>
