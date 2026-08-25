@@ -1,0 +1,22 @@
+{
+  "platforms": {
+    "linux-x86_64": {
+      "url": "https://github.com/p2ppsr/metanet-client-downloads/releases/download/v0.7.3/metanet-client-updater-linux-x86_64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVJmMW9RTDBINWlmMUZBOFMyNEpwSHhsc3kydklFQ0ZwS1NRcTFYZ0hjUEQwcmVkNDNmZzExUVQxeTVGKzJzT0gxNHB5T000SEtHN2JGU0IwSUdBVzdJSUpUSFRzTmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODM3NTIwCWZpbGU6TWV0YW5ldCBDbGllbnRfMC43LjNfYW1kNjQuQXBwSW1hZ2UKMUdsdDJGcUdwOENSUUp6U2RWZnVUd2pPM1ErZ2Q3VG95b2QzTy9rR1RzLzlrdTN3UkszamZ4SXNWUms0UmxYWnEzUnJHcTd1Q1YxVi9UbFJZWDZRQ3c9PQo="
+    },
+    "darwin-aarch64": {
+      "url": "https://github.com/p2ppsr/metanet-client-downloads/releases/download/v0.7.3/metanet-client-updater-darwin-aarch64.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVJmMW9RTDBINXVsSnJzWGRQMThma2ZkaGIydXlLL2xVVFhrZ1hpUlM5TjVQSUZSQ1FYUDIxQllwTld4djVpZmF5N1dJMkFCTXByTW9acnVzNlVEK2txZExNRTRHZlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODM3MTY0CWZpbGU6TWV0YW5ldCBDbGllbnQuYXBwLnRhci5negpnbklPVmdDeTc0NnI2a1hQRzhJaXB4ZHl5OHRSSFBwYXd3cGpIRnZFajFKN2JTUVVCRXEzOUJHTlFGL2lNb0FDU3MwalI0ZkRGVTdhTEMvQ1E0MVVDZz09Cg=="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/p2ppsr/metanet-client-downloads/releases/download/v0.7.3/metanet-client-updater-darwin-x86_64.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVJmMW9RTDBINXY1d1FGMmdxUkpPTjRObm9seS9iVm1xQ2hzTHd3b3RkRG5LdHRyZHladHFvMk9ydXRWUTR1bVB1NnFieG54aWdUNGtpa3NwNEs0Sy9VVEV6djBlc3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODM3MDk3CWZpbGU6TWV0YW5ldCBDbGllbnQuYXBwLnRhci5negpmaTQ5a1c5VExBUFQwK2VUL0ZhTGJEdWpiSWUrQUdyQjdOSUExZk9vZ3ZhbFBVWmUxOURMTzJkTUNnakNIM05LMjk0eHl3RUk0QkJCSUlhdXdPSkxBZz09Cg=="
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/p2ppsr/metanet-client-downloads/releases/download/v0.7.3/metanet-client-updater-windows-x86_64.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVJmMW9RTDBINWpDd1ZQZFRlaDRLN1dlalo0ci85bjYzNlNZdDZyT3FMT2gxOU1peGVoazliRVIybEpqcGdmRkhPOXZldy93ZHRYcjJ3bEdNMldISUlLRnQvTEZ0TkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODM3NTg4CWZpbGU6TWV0YW5ldCBDbGllbnRfMC43LjNfeDY0LXNldHVwLmV4ZQpVRCtYSU1JdjJ0RWxVS2ovZ3NxNlppb3E3cjRQWXp4M2gzMllXbWFDdEg3MXZFOTNUK1dHYWlDNFhFVHI2aE9NLzBnM3VpTDdld2ZHRSsxc1RVMkVEQT09Cg=="
+    }
+  },
+  "version": "0.7.3",
+  "pub_date": "2026-08-15T23:46:23Z"
+}
