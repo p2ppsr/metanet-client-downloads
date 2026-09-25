@@ -1,22 +1,22 @@
 {
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/p2ppsr/metanet-client-downloads/releases/download/v0.8.3/metanet-client-updater-linux-x86_64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVJmMW9RTDBINWlKc2JRZDZRNXJoQXhCaXpTWVlaTjAwZjNQWXZHcGtWS1ZFY1N5M0NGQmFtSWFMQ1gwTkF1dGUzN2RVbURJOEpFaHVMV1c1RDYzdHRQWnhYVGNiYkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjg1MDE5CWZpbGU6TWV0YW5ldCBDbGllbnRfMC44LjNfYW1kNjQuQXBwSW1hZ2UKWkxsRGlPV2l6QjlWQ1c3UTFPMkdIN0hiS0hNcGFwTitVQmFKVnp6bmZ0ZlB5dVhuZEx6ZEc2dmVVUHJleHBGcXltMjl4MllHa3Z1ckVyS3ZVSWFPREE9PQo="
+      "url": "https://github.com/p2ppsr/metanet-client-downloads/releases/download/v0.8.4/metanet-client-updater-linux-x86_64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVJmMW9RTDBINXF2SStEUXRYWVhVN1RtcU9CNjVoN05ZZWdFa3V2ME12YXV6aDZCTStFRHVzQk1kWTQxelN4MDRYUEh1c2hQTVR1MjRFaGhVa1JGZVdqd2RneVRaSEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjk1OTkyCWZpbGU6TWV0YW5ldCBDbGllbnRfMC44LjRfYW1kNjQuQXBwSW1hZ2UKSW96b0s1Z015TFNnOURsMmZiUVZKTE9SQ2hWSXNWZ1BrVnNsczU2MGJYV3RQQlp0ZXRnam03SXNweExtajh2NkpCNjdvZ2RzRkZPUzRPWlM2VmVERHc9PQo="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/p2ppsr/metanet-client-downloads/releases/download/v0.8.3/metanet-client-updater-darwin-aarch64.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVJmMW9RTDBINXFoNCtrTTlKSkRTUFJ5cFoxNXl2M3lHdnNpM2NmeUtKQlYydWxzdVRTRW5DRnBtKzBQcncyMUhQK3BmNVkwazZWZmR4b0VzUitDdFkxZHpqQU1lK3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjg0Njc5CWZpbGU6TWV0YW5ldCBDbGllbnQuYXBwLnRhci5negptRlNISk15M0Z3aEYyby81TGRrTHRNMkJOR1JlMkVUakhJZHVhdWw2L2lOMDZienJyZkptSDRlWGp6b2kwOXhyNElBNk5sUThmNXdLakZLUDVvVFVCQT09Cg=="
+      "url": "https://github.com/p2ppsr/metanet-client-downloads/releases/download/v0.8.4/metanet-client-updater-darwin-aarch64.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVJmMW9RTDBINXVab3daYXB4Vlp0eXl4S1lVYnZKQk5Vd2xickVoMUFMOHp2dXhTNk1BcHI5VG01TkNNVGFkcDZhMnlqR3ExNWMwNEx0T1oyaThmVHB3ckxiY0p5TGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjk1NzYyCWZpbGU6TWV0YW5ldCBDbGllbnQuYXBwLnRhci5negpSdnI4SHp3TVpGaFlVYTNFVVg4aVF5d055QkRmQktnZEg1dGZocnJ3WERrd0lNWms3SUI0NjYwMFB3SDJmRHFHY1VxQzJTTHpiOGxzSm0rTTgybDhEdz09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/p2ppsr/metanet-client-downloads/releases/download/v0.8.3/metanet-client-updater-darwin-x86_64.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVJmMW9RTDBINW9GY3lGeDl6UDFiaU9TMlNleDRjb0l3dUYzOXc4QUhreTlIL2FxT2x0NElxTVhMckpIOTZYa1dPcW1GSjNkUzRNUDVacG9qeCtsSEx6UGxDUFZxbUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjg0NjEwCWZpbGU6TWV0YW5ldCBDbGllbnQuYXBwLnRhci5negpzYXk5dHF5TkV6K3JhVzAxMFB3NjZOaTkvdnlMUGIrWkM0N1hsaGVKOWdCUjNLdGxWR0J6VHlDc1lIQ2hEWmpvNEJLV0I5cldlNFBkQUNwb1Z1WHlDUT09Cg=="
+      "url": "https://github.com/p2ppsr/metanet-client-downloads/releases/download/v0.8.4/metanet-client-updater-darwin-x86_64.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVJmMW9RTDBINXNIYXhaTUc2VW9pTEVMcWF2Tmt0Z0J2bVNBdFRlTnpsUENtK0JkczNwRmlWOFR5N1puMjB5WTg1VVZJS2hxb29SdlZKNllIMWZJcE05MWhTb1hsaXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjk1NTQ4CWZpbGU6TWV0YW5ldCBDbGllbnQuYXBwLnRhci5negpzMTRJSmNQMHQyTVFVZFJnY3JmRHF0T2ZnVmtNWjVSNittM1ErNjRkbG5LdWlXdWxCZnFYR0RrVnlRcmN5K0hCSVdSTndCdUs2d3MvNDVyTDRyNDBCdz09Cg=="
     },
     "windows-x86_64": {
-      "url": "https://github.com/p2ppsr/metanet-client-downloads/releases/download/v0.8.3/metanet-client-updater-windows-x86_64.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVJmMW9RTDBINXZxMHZQQWlwRnJ5SkxvZlkwSmdRSzNYTFUxRldsTDR2eFZrVlhlNDRKa0V4ZGZFMFRnVkFJa3BLdFVuanh1aUxjYmJneWNnb1JaVitFWWZRYWhjQmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjg0OTYxCWZpbGU6TWV0YW5ldCBDbGllbnRfMC44LjNfeDY0LXNldHVwLmV4ZQphbmtmbzU3MURZRlpZRkQxTDRXWmJPRVNlVU0zS1B2bEZHa3Z2cG5wSUphMktqWTk0YjdyWVNLd1EyY2pGOGpnWmR2MWg4VXp6RzV5SnJ5SkV5SS9Bdz09Cg=="
+      "url": "https://github.com/p2ppsr/metanet-client-downloads/releases/download/v0.8.4/metanet-client-updater-windows-x86_64.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVJmMW9RTDBINW5EaEErQzd4aFdQaWd5T2JNQmFmc0lONFVUTU5DWFdMVmNlcm5JbEUxVmdud09EUnVFYktXV3lqTWNCWDRmdVVMcjdDQ3dsSlJTVUo5dklTT3prVncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjk1NzI4CWZpbGU6TWV0YW5ldCBDbGllbnRfMC44LjRfeDY0LXNldHVwLmV4ZQp6aG5LYzQ0bDRCTzIweDR3UDU2bFE0MmpPVkc2RVZoSDJQeHd3eFlmbGZMRDg0UlFEa0hEZHJJQ015dEFENkZKRlB2WUNvdFFkSUIyRFhocWtJWmxDdz09Cg=="
     }
   },
-  "version": "0.8.3",
-  "pub_date": "2026-09-24T21:24:47Z"
+  "version": "0.8.4",
+  "pub_date": "2026-09-25T00:27:33Z"
 }
